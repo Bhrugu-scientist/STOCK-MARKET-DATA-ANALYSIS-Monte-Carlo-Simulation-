@@ -42,5 +42,8 @@ In this project INSIGHTS found from the data are:
    
    
    - CORRELATION between closing prices of different stocks.
+   
+   ![Screenshot (442)](https://user-images.githubusercontent.com/61165633/91632950-5e533180-e999-11ea-9638-38602358cb78.png)
+
    - Amount of RISK by investing in a particular stock.
    - An ATTEMPT to PREDICT future stock behvaior.
