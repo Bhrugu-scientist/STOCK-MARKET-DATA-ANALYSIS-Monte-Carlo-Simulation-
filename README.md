@@ -18,7 +18,19 @@ In this project INSIGHTS found from the data are:
 
 
    - Average daily return of the stock.
+   
+   
+   ![Screenshot (436)](https://user-images.githubusercontent.com/61165633/91632559-68276580-e996-11ea-9d8d-5a3b0396121b.png)
+
+   ![Screenshot (437)](https://user-images.githubusercontent.com/61165633/91632556-6067c100-e996-11ea-9fa2-03049127eaa6.png)
+
+   
    - MOVING AVERAGE of all the stocks.
+   
+   
+   ![Screenshot (435)](https://user-images.githubusercontent.com/61165633/91632550-5b0a7680-e996-11ea-850e-5a9bd4c22685.png)
+   
+   
    - CORRELATION between closing prices of different stocks.
    - Amount of RISK by investing in a particular stock.
    - An ATTEMPT to PREDICT future stock behvaior.
