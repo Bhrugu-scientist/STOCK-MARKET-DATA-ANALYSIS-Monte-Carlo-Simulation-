@@ -1,5 +1,15 @@
 # STOCK-MARKET-DATA-ANALYSIS-Monte-Carlo-Simulation-
 
+.markdown-preview.markdown-preview {
+ &, h4, h5, h6 {
+   font-size: 75;
+  }
+
+  h1 { font-size: 60; }
+  h2 { font-size: 60; }
+  h3 { font-size: 60; }
+}
+
 (1) Collected the stock market data (GOOGLE, APPLE, MICROSOFT, AMAZON) and used PANDAS to get the stock information, used visualiztion libraries such as MATPLOTLIB & SEABORN to visualize the different aspects of it.
 
 (2) Used some methods to analyze the risk of stock based on its previous performance history.
