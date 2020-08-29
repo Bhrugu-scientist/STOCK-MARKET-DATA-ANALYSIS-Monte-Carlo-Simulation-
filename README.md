@@ -1,15 +1,5 @@
 # STOCK-MARKET-DATA-ANALYSIS-Monte-Carlo-Simulation-
 
-.markdown-preview.markdown-preview {
- &, h4, h5, h6 {
-   font-size: 75;
-  }
-
-  h1 { font-size: 60; }
-  h2 { font-size: 60; }
-  h3 { font-size: 60; }
-}
-
 (1) Collected the stock market data (GOOGLE, APPLE, MICROSOFT, AMAZON) and used PANDAS to get the stock information, used visualiztion libraries such as MATPLOTLIB & SEABORN to visualize the different aspects of it.
 
 (2) Used some methods to analyze the risk of stock based on its previous performance history.
@@ -46,4 +36,12 @@ In this project INSIGHTS found from the data are:
    ![Screenshot (442)](https://user-images.githubusercontent.com/61165633/91632950-5e533180-e999-11ea-9638-38602358cb78.png)
 
    - Amount of RISK by investing in a particular stock.
+   
    - An ATTEMPT to PREDICT future stock behvaior.
+   
+   ![Screenshot (443)](https://user-images.githubusercontent.com/61165633/91633006-cbff5d80-e999-11ea-9891-ffbe3f7727a4.png)
+   
+   ![Screenshot (445)](https://user-images.githubusercontent.com/61165633/91633009-ce61b780-e999-11ea-8edb-94267851a221.png)
+   
+   ![Screenshot (444)](https://user-images.githubusercontent.com/61165633/91633013-d3266b80-e999-11ea-99ae-936e123bfbe9.png)
+
